@@ -1,6 +1,6 @@
 # Topological_SWR
 
-Characterization of hippocampal sharp-wave ripples (SWR) using Topological Data Analysis. 
+This notebook illustrates the pipeline of the topological analysis of sharp-wave ripples (SWR) as published in Sebastian et al., Nat Neu 2023 (https://www.nature.com/articles/s41593-023-01471-9). 
 
 TopologicalRippleClassification.ipynb is a jupyter notebook with an example of the code used for this project.
 
