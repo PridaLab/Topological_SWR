@@ -1,8 +1,8 @@
 # Topological_SWR
 
-This notebook illustrates the pipeline of the topological analysis of sharp-wave ripples (SWR) as published in Sebastian et al., Nat Neu 2023 (https://www.nature.com/articles/s41593-023-01471-9). 
+This notebook illustrates the pipeline of the topological analysis of sharp-wave ripples (SWR) as published in Sebastian et al., Nat Neu 2023 (<a href="https://www.nature.com/articles/s41593-023-01471-9" target="_blank">https://www.nature.com/articles/s41593-023-01471-9</a>). 
 
-[TopologicalRippleClassification.ipynb](https://github.com/PridaLab/Topological_SWR/blob/main/TopologicalRippleClassification.ipynb) is a jupyter notebook with an example of the code used for this project.
+<a href="https://github.com/PridaLab/Topological_SWR/blob/main/TopologicalRippleClassification.ipynb" target="_blank">TopologicalRippleClassification.ipynb</a> is a jupyter notebook with an example of the code used for this project.
 
 This notebook illustrates the pipeline of the topological analysis of SWR. Given that some parts of the code are computationally expensive, we provide pre-computed results in a file. If you are interested in either testing your own data or check the computation of the provided dataset you can execute the corresponding part locally.
 
